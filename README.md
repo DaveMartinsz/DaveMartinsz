@@ -14,5 +14,3 @@ Estudante de Análise e Desenvolvimento de Sistemas,
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
-
-<i>Carpe diem<i> 
