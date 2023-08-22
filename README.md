@@ -14,5 +14,5 @@ Estudante de Análise e Desenvolvimento de Sistemas,
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="deivid-martins-416aa722b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/deivid-martins-416aa722b?trk=profile-badge">Deivid Martins</a></div>
+
               
