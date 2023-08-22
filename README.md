@@ -2,8 +2,8 @@
 Estudante de Análise e Desenvolvimento de Sistemas,
 <br/>fascinado por tecnologia, artes e aprender cada vez mais.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/deivid-martins-416aa722b?trk=profile-badge))
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]([https://www.linkedin.com/in/deivid-souza-416aa722b/](https://www.behance.net))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/deivid-martins-416aa722b?trk=profile-badge)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davemartinsz&show_icons=true&theme=tokyonight)
 
